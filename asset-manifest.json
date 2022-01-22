@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pglife/static/css/main.5a8f16dd.css",
+    "main.css": "/pglife/static/css/main.5b1afc64.css",
     "main.js": "/pglife/static/js/main.23423d2d.js",
     "static/media/chandigarh.jpeg": "/pglife/static/media/chandigarh.537c2244b7f1553500f9.jpeg",
     "static/media/hydrabad.jpeg": "/pglife/static/media/hydrabad.83a9acb315bc114bbfd3.jpeg",
@@ -11,11 +11,11 @@
     "static/media/home2.svg": "/pglife/static/media/home2.776609d61461867febe5d5efc4100cfd.svg",
     "static/media/home4.svg": "/pglife/static/media/home4.ecab8ef4394587afb4651d40d7822b98.svg",
     "index.html": "/pglife/index.html",
-    "main.5a8f16dd.css.map": "/pglife/static/css/main.5a8f16dd.css.map",
+    "main.5b1afc64.css.map": "/pglife/static/css/main.5b1afc64.css.map",
     "main.23423d2d.js.map": "/pglife/static/js/main.23423d2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a8f16dd.css",
+    "static/css/main.5b1afc64.css",
     "static/js/main.23423d2d.js"
   ]
 }
