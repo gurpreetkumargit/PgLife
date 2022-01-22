@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/PgLife/static/css/main.9ac8e424.css",
-    "main.js": "/PgLife/static/js/main.9674d9cf.js",
-    "static/media/chandigarh.jpeg": "/PgLife/static/media/chandigarh.537c2244b7f1553500f9.jpeg",
-    "static/media/hydrabad.jpeg": "/PgLife/static/media/hydrabad.83a9acb315bc114bbfd3.jpeg",
-    "static/media/banglore.jpeg": "/PgLife/static/media/banglore.21ab0c0143bfeaf6148f.jpeg",
-    "static/media/kolkata.jpeg": "/PgLife/static/media/kolkata.6e83109d413f67379a0d.jpeg",
-    "static/media/delhi.jpeg": "/PgLife/static/media/delhi.ef54f431fd996125d074.jpeg",
-    "static/media/mumbai.jpeg": "/PgLife/static/media/mumbai.1e9f34cced1eaae5ad12.jpeg",
-    "static/media/home2.svg": "/PgLife/static/media/home2.776609d61461867febe5d5efc4100cfd.svg",
-    "static/media/home4.svg": "/PgLife/static/media/home4.ecab8ef4394587afb4651d40d7822b98.svg",
-    "index.html": "/PgLife/index.html",
-    "main.9ac8e424.css.map": "/PgLife/static/css/main.9ac8e424.css.map",
-    "main.9674d9cf.js.map": "/PgLife/static/js/main.9674d9cf.js.map"
+    "main.css": "/pglife/static/css/main.5a8f16dd.css",
+    "main.js": "/pglife/static/js/main.23423d2d.js",
+    "static/media/chandigarh.jpeg": "/pglife/static/media/chandigarh.537c2244b7f1553500f9.jpeg",
+    "static/media/hydrabad.jpeg": "/pglife/static/media/hydrabad.83a9acb315bc114bbfd3.jpeg",
+    "static/media/banglore.jpeg": "/pglife/static/media/banglore.21ab0c0143bfeaf6148f.jpeg",
+    "static/media/kolkata.jpeg": "/pglife/static/media/kolkata.6e83109d413f67379a0d.jpeg",
+    "static/media/delhi.jpeg": "/pglife/static/media/delhi.ef54f431fd996125d074.jpeg",
+    "static/media/mumbai.jpeg": "/pglife/static/media/mumbai.1e9f34cced1eaae5ad12.jpeg",
+    "static/media/home2.svg": "/pglife/static/media/home2.776609d61461867febe5d5efc4100cfd.svg",
+    "static/media/home4.svg": "/pglife/static/media/home4.ecab8ef4394587afb4651d40d7822b98.svg",
+    "index.html": "/pglife/index.html",
+    "main.5a8f16dd.css.map": "/pglife/static/css/main.5a8f16dd.css.map",
+    "main.23423d2d.js.map": "/pglife/static/js/main.23423d2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ac8e424.css",
-    "static/js/main.9674d9cf.js"
+    "static/css/main.5a8f16dd.css",
+    "static/js/main.23423d2d.js"
   ]
 }
